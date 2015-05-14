@@ -6,7 +6,7 @@ In this proyect we have the basic node proyect structure.
 
 ### Folders Structures
 
-- ####**Project**
+- ### **Project**
  1. *App*
 	  1. Controllers
 	  2. Models
@@ -30,10 +30,10 @@ The Gruntfile script performs the following steps:
 Running the server
 ---
 
-== Before to run the server, you need be sure that all the dependencies are installed ==
+Before to run the server, you need be sure that all the dependencies are installed
 
     npm install
 
-== When all the dependencies are installed ==
+When all the dependencies are installed
 
     node app.js
