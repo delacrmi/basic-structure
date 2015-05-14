@@ -6,7 +6,7 @@ In this proyect we have the basic node proyect structure.
 
 ### Folders Structures
 
-- ### **Project**
+- **Project**
  1. *App*
 	  1. Controllers
 	  2. Models
